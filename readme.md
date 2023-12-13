@@ -35,4 +35,4 @@ Follow these steps to get Tourwise up and running on your local machine:
 
 ```bash
 gh repo clone CodeCrafterz-TourWise/TourWise
-cd TourWise
+cd TourWise-with-CodeCrafterz
